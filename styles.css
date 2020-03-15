@@ -1,0 +1,23 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcScZ1Hqi1wUxDjDmkKjsMlRFlZGBZjN1mkNFyV4P_MuzN6MWX_q");
+    background-repeat: no-repeat;
+background-size: cover;
+}
+
+h1{
+    color: rgb(116, 139, 34);
+    text-align: center;
+}
+h2{
+    color: goldenrod;
+    text-align: center;
+}
+p{
+    color: white;
+    font-size: 40;
+
+}
+@media all and (min-width:500px){
+    
+    
+}
